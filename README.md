@@ -1,5 +1,5 @@
 ## Hi there 👋,
-### I am a full stack developer from London, United Kingdom
+### I am a Senior developer / Tech Lead from London, United Kingdom
 <!--
 **Mario-Duarte/Mario-Duarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
