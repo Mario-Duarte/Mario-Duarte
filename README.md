@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋,
+## I am a fuklstack developer from London, United Kingdom
 <!--
 **Mario-Duarte/Mario-Duarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
