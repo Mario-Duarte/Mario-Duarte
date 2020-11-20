@@ -1,7 +1,7 @@
 ## Hi there 👋,
 ### I am a Senior developer / Tech Lead from London, United Kingdom
 🔭 I’m currently working on [react-image-zooom](https://github.com/Mario-Duarte/react-image-zooom)<br/>
-🌱 I’m currently expanding my knoladge of ReactJS<br/>
+🌱 I’m currently expanding my knowledge of ReactJS<br/>
 👯 Always happy to help others<br/>
 📫 Reach me via [Twitter @MDesignsuk](https://twitter.com/MDesignsuk)<br/>
 ⚡ Fun fact: Love Photography! [Check it out](https://www.instagram.com/m.duarte_/)<br/>
