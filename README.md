@@ -1,5 +1,5 @@
-## Hi there 👋,
-### I am a Senior developer / Tech Lead from London, United Kingdom
+## Hi there 👋
+### I am a Senior developer / Tech Lead <br/>from London, United Kingdom.<br/> I ❤️ create 🐛 and turn them into 🦋 with JavaScript!
 🔭 I’m currently working on my next react component/hook<br/>
 🌱 I’m currently expanding my knowledge of ReactJS<br/>
 👯 Always happy to help others<br/>
