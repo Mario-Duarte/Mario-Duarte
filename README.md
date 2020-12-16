@@ -1,12 +1,12 @@
 ## Hi there 👋
-### I am a Senior developer / Tech Lead <br/>from London, United Kingdom.<br/> I ❤️ create 🐛 and turn them into 🦋 with JavaScript!
-🔭 I’m currently working on my next react component/hook<br/>
-🌱 I’m currently expanding my knowledge of ReactJS<br/>
-👯 Always happy to help others<br/>
+### I am a Senior developer / Tech Lead <br/>Living in London, United Kingdom.<br/> I ❤️ create 🐛 and turn them into 🦋 with JavaScript!
+🔭 I’m currently working on my next ReactJS project<br/>
+🌱 Always expanding my knowledge of ReactJS and Laravel<br/>
+👯 Always happy to help and mentor others! Contact me to find out more.<br/>
 📫 Reach me via [Twitter @MDesignsuk](https://twitter.com/MDesignsuk)<br/>
 ⚡ Fun fact: Love Photography! [Check it out!](https://www.instagram.com/m.duarte_/)<br/>
 
-Also feel free to check out my doodles on [CodePen](https://codepen.io/MarioDesigns) 😄
+Also feel free to check out my Cool doodles on [CodePen](https://codepen.io/MarioDesigns), Have fun! 😄
 <!--
 **Mario-Duarte/Mario-Duarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
