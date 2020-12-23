@@ -2,7 +2,7 @@
 ### I am a Senior developer / Tech Lead <br/>Living in London, United Kingdom.<br/> I ❤️ create 🐛 and turn them into 🦋 with JavaScript!
 🔭 I’m currently working on my next ReactJS project<br/>
 🌱 Always expanding my knowledge of ReactJS and Laravel<br/>
-👯 Always happy to help and mentor others! Contact me to find out more.<br/>
+👯 Always happy to help and mentor others! [Contact me](https://twitter.com/MDesignsuk) to find out more.<br/>
 📫 Reach me via [Twitter @MDesignsuk](https://twitter.com/MDesignsuk)<br/>
 ⚡ Fun fact: Love Photography! [Check it out!](https://www.instagram.com/m.duarte_/)<br/>
 
