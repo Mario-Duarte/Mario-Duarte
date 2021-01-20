@@ -1,6 +1,6 @@
-<img src="./docs/title.svg" alt="Hi there" />
+<img src="./docs/bio.svg" alt="Hi there" />
 
-## Hi there 👋
+## Óla, Hola, Hello 👋
 ### I am a Senior developer / Tech Lead <br/>Living in London, United Kingdom.<br/> I ❤️ create 🐛 and turn them into 🦋 with JavaScript!
 🔭 I’m currently working on my next ReactJS and NextJS project<br/>
 🌱 Always expanding my knowledge of Javascript and PHP<br/>
