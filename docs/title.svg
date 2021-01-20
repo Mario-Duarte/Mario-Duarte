@@ -1,8 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="544px" height="120px" viewBox="0 0 544 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>Artboard</title>
+    <style>
+    
+        [data-color-mode=dark], 
+        [data-color-mode=dark][data-dark-theme=dark], 
+        [data-color-mode=light][data-light-theme=dark] {
+            --copyColor : white;
+        }
+
+        :root, 
+        [data-color-mode=dark][data-dark-theme=light], 
+        [data-color-mode=light], 
+        [data-color-mode=light][data-light-theme=light] {
+            --copyColor : black;
+        }
+
+        #intro {
+            fill : var(--copyColor);
+        }
+
+    </style>
     <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-family="Roboto-Bold, Roboto" font-size="72" font-weight="bold">
-        <text id="Óla,-Hola,-Hello" fill="#000000">
+        <text id="intro">
             <tspan x="19.8144531" y="87">Óla, Hola, Hello</tspan>
         </text>
     </g>
