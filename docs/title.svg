@@ -16,8 +16,37 @@
             --copyColor : black;
         }
 
+        @keyframes textAnimation1 {
+            0% { transform: translateX(0px) translateY(0px); opacity: 0; }
+            33% { transform: translateX(6px) translateY(6px); opacity: 0.6; }
+            66% { transform: translateX(-6px) translateY(-6px); opacity: 0.6; }
+            100% { transform: translateX(0px) translateY(0px); opacity: 0; }
+        }
+
+        @keyframes textAnimation2 {
+            0% { transform: translateX(0px) translateY(0px); opacity: 0; }
+            33% { transform: translateX(-6px) translateY(-6px); opacity: 0.6; }
+            66% { transform: translateX(6px) translateY(6px); opacity: 0.6; }
+            100% { transform: translateX(0px) translateY(0px); opacity: 0; }
+        }
+
         #intro {
             fill : var(--copyColor);
+        }
+
+        #intro:before {
+                content: "Ol\E1, Hola, Hello!";
+                font-family: Roboto-Bold, Roboto;
+                font-size: 72px;
+                font-weight: bold;
+                color: #e74c3c;
+                opacity: .3;
+                position: absolute;
+                top: 0;
+                left: 0;
+                transform: translateX(0) translateY(0);
+                animation: textAnimation1 10s ease-in-out 0s infinite forwards;
+                z-index: -1;
         }
 
     </style>
