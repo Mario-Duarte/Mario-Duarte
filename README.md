@@ -1,4 +1,4 @@
-<img src="./docs/bio.svg" alt="Hi there" />
+<a href="https://www.marioduarte.co.uk/" target="_blank"><img src="./docs/bio.svg" alt="Hi there" /></a>
 
 ## Óla, Hola, Hello 👋
 ### I am a Senior developer / Tech Lead <br/>Living in London, United Kingdom.<br/> I ❤️ create 🐛 and turn them into 🦋 with JavaScript!
