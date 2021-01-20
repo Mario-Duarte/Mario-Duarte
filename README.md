@@ -1,4 +1,4 @@
-![Hi there](./docs/title.svg)
+<img src="./docs/title.svg" alt="Hi there" />
 
 ## Hi there 👋
 ### I am a Senior developer / Tech Lead <br/>Living in London, United Kingdom.<br/> I ❤️ create 🐛 and turn them into 🦋 with JavaScript!
