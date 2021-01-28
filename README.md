@@ -9,6 +9,11 @@
 ⚡ Fun fact: Love Photography! [Check it out!](https://www.instagram.com/m.duarte_/)<br/>
 
 Also feel free to check out my Cool doodles on [CodePen](https://codepen.io/MarioDesigns), Have fun! 😄
+
+Have you found some of my work helpfull and want to thank me?<br/>
+Now you can! Any and all support is greatly apreciatted and will go a long way to motivame to keep creating.<br/>
+<a href="https://www.buymeacoffee.com/marioduarte"><img src="https://img.buymeacoffee.com/button-api/?text=Thank me with a coffee&emoji=&slug=marioduarte&button_colour=FF5F5F&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00"></a>
+
 <!--
 **Mario-Duarte/Mario-Duarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
