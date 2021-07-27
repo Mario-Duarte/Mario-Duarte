@@ -2,7 +2,7 @@
 
 ## Óla, Hola, Hello 👋
 ### I am a Senior developer / Tech Lead <br/>Living in London, United Kingdom.<br/> I ❤️ create 🐛 and turn them into 🦋 with JavaScript!
-🏢 Corrently working at [Tillit](https://tillitinvest.com/) as a Senior frontend developer building the next generation in DYI investment plaftform.
+🏢 Corrently working at [Tillit](https://tillitinvest.com/) as a Senior frontend developer building the next generation in DYI investment plaftform.<br/>
 🔭 I’m currently working on my next NodeJS/ReactJS project<br/>
 🌱 Always expanding my knowledge of Javascript, PHP, Phyton and others<br/>
 👯 Always happy to help and mentor others! [Contact me](https://twitter.com/MDesignsuk) to find out more.<br/>
