@@ -1,7 +1,7 @@
 <a href="https://www.marioduarte.co.uk/" target="_blank"><img src="./docs/bio.svg" alt="Hi there" /></a>
 
 ## Óla, Hola, Hello 👋
-### I am a Senior developer / Tech Lead <br/>Living in England, United Kingdom.<br/> I ❤️ create 🐛 and turn them into 🦋 using JavaScript 🪄!
+### I am a Senior developer / Tech Lead <br/>Living in South East England, United Kingdom.<br/> I ❤️ create 🐛 and turn them into 🦋 using JavaScript 🪄!
 #### From design to UX to the client browser, love creating high polished solutions every step of the way.
 🏢 Corrently working at [Tillit invest](https://tillitinvest.com/) as a Senior Software Developer building the next generation in [DYI investment plaftform](https://my.tillitinvest.com/invitation/87RTMSKYG46E) that empowers its users to make better investment decisions.<br/><br/>
 🔭 I’m currently working on my next NodeJS/ReactJS project<br/>
