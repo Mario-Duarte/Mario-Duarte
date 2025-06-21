@@ -5,6 +5,10 @@
 #### Passionate about creating polished solutions across the full development lifecycle, from UI and UX desing to development and delivery.
 🏢 Currently working at [Tillit invest](https://tillitinvest.com/) as a Senior Software Developer, building the next generation in [DIY investment platform](https://my.tillitinvest.com/invitation/87RTMSKYG46E), with a focus on exceptional user experience and intuitive interfaces.  Our goal is to empower users to make informed investment decisions by providing access to best-in-class funds through a clean, modern platform with a unique and user-friendly design.<br/><br/>
 
+💻 Technologies: JavaScript (ES6+), TypeScript, React, Next, Node.js, PHP, HTML5, CSS3/Sass
+🛢️ Databases & APIs: GraphQL, MongoDB, SQL
+☁️ Tools & Platforms: Git, Docker, Figma, Sketch, AWS, Vercel, Netlify, Jest, Agile/Scrum
+
 🔭 I’m currently working on my next NodeJS/ReactJS project<br/>
 🌱 Always expanding my knowledge of Javascript, PHP, Python and others<br/>
 👯 Always happy to help and mentor others! [Contact me](https://twitter.com/MDesignsuk) to discuss potential collaborations or mentorship opportunities.<br/>
